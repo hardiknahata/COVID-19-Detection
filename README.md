@@ -19,7 +19,7 @@ The [Data Prepare](https://github.com/hardiknahata/COVID-19-Detection/blob/maste
 
 The [Train_Covid19](https://github.com/hardiknahata/COVID-19-Detection/blob/master/Train_Covid-19.py) file contains well documented code to build and train the deep learning model from scratch.
 <br><br>
-Given below is the Model Training & Testing Performance.
+**Model Performance**<br>
 <br>
 Accuracy Graph             | Loss Graph
 :-------------------------:|:-------------------------:
@@ -29,7 +29,7 @@ From the above plots we can observe that the Model does not Overfit even though 
 
 <br>
 
-Below is the Classification Report of the Deep Learning Model.
+**Classification Report**
 <br>
 Classficiation Report
 :-------------------------:|
